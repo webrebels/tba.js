@@ -1,0 +1,22 @@
+{
+  "name": "tba.js",
+  "version": "1.0.0",
+  "description": "To Be Announced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webrebels/tba.js.git"
+  },
+  "keywords": [
+    "tba"
+  ],
+  "author": "TBA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webrebels/tba.js/issues"
+  },
+  "homepage": "https://github.com/webrebels/tba.js#readme"
+}
