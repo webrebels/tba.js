@@ -1,5 +1,7 @@
 # tba.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/webrebels/tba.js.svg)](https://greenkeeper.io/)
+
 To Be Announced
 
 # Installation
